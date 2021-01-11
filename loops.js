@@ -23,7 +23,7 @@ function doWhileLoop(n) {
   function incrementVariable() {
     i = i + 1;
       return i;
-    }
+  }
 
     do {
       console.log("doo-bee-doo-bee-doo");
