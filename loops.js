@@ -25,7 +25,7 @@ function doWhileLoop(n) {
     return i;
   }
 
-    do {
-      console.log("doo-bee-doo-bee-doo");
-    } while (incrementVariable() < 5);
+  do {
+    console.log("doo-bee-doo-bee-doo");
+  } while (incrementVariable() < 5);
 }
